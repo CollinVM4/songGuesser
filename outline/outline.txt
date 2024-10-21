@@ -1,0 +1,40 @@
+Song guessing battle….
+
+Premise: 
+
+Load into the website, choose name, avatar etc.
+Share invite link to friend who you want to battle
+You each select a song that the other person has to guess
+Songs are selected from a menu, sorted by genre, top artists, etc.
+You are then inside the game where you see empty boxes for the song name (like hangman)
+Enter guesses into the chatbox
+As time passes, letters are filled in to help you guess.
+
+
+
+What makes the game different than others:
+
+Inside the game, there will be a shop/reveal menu
+To gain shop currency, you can reveal/send over helpful clues to your opponent 
+Clues can be things like… Album cover, Genre, Individual letters, Audio snippet (3-10 seconds)
+The more helpful the clue is, the more points you are rewarded
+Points can be used in the shop to buy clues for yourself
+
+
+How a game might play out…
+
+Player 1 invites Player 2 to join a game (similar to scribbl.io invite link)
+Player 1 chooses Creep by Radiohead, Player 2 chooses Poker Face by lady gaga
+
+Player 1 sees:     _ _ _ _ r   _ a _ e
+Player 2 sees:     _ r _ _ _
+(amt of letters pre-filled determined by length of song name)
+
+Player 1 selects the reveal menu and sends over the album cover for 50pts 
+Player 2 now has the album cover filled in next to their song 
+Player 1 selects the shop menu and buys a 5 second audio snippet for 50pts
+Player 2 selects reveal menu and reveals/sends 3 letters for 30 pts
+Player 1 would now see P _ k _ r   F a _ e
+Player 2 selects the shop menu and buys 3 second audio snipped for 30pts
+Player 1 guesses: Poker face
+Game over… Player 1 wins
