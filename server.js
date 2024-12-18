@@ -1,10 +1,10 @@
 // server.js
 
-const express = require('express');
+const express = require('express'); // require express library
 const path = require('path');
 const cors = require('cors');
 
-const app = express();
+const app = express(); // create an application by calling express
 const PORT = process.env.PORT || 5000;
 
 // Middleware
